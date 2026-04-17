@@ -65,8 +65,3 @@ streamlit run app/streamlit_app.py
 docker build -t finance-kpi-app .
 docker run -p 8501:8501 finance-kpi-app
 ```
-
-## Resume-ready bullets
-- Built a finance KPI intelligence platform using SQL, Python, and Streamlit to track revenue, cost, profitability, and customer trends, enabling faster executive decision-making through automated dashboards and forecasting.
-- Designed ETL and dbt-style transformation workflows for monthly financial data, improving reporting reliability and demonstrating production-ready analytics engineering patterns for business performance monitoring.
-- Developed time series forecasting and AI-generated executive summaries to surface trend changes, business risks, and segment-level performance drivers in a leadership-friendly format.
