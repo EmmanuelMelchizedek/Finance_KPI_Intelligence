@@ -23,6 +23,32 @@ Python, Pandas, NumPy, scikit-learn, SQL, Streamlit, Plotly, DuckDB, dbt-style S
 - Generates executive summary text
 - Displays a dashboard suitable for business review meetings
 
+## Screenshots
+<p align="center">
+  <img src="assets/Dashboard.png" width="800"/>
+</p>
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="assets/forecasted revenue.png" width="800"/>
+</p>
+## 📊 Forecasted Revenue
+
+<p align="center">
+  <img src="assets/segment KPI table.png" width="800"/>
+</p>
+## 📊KPI Table
+
+<p align="center">
+  <img src="assets/profit by region and product.png" width="800"/>
+</p>
+## 📊Profit by Region and Product
+
+<p align="center">
+  <img src="assets/revenue trend.png" width="800"/>
+</p>
+## 📊 Revenue_Trend
+
 ## Repository structure
 ```text
 project_1_finance_kpi_intelligence/
